@@ -1,24 +1,48 @@
-This script allows you to input a message and a time duration (in days, hours, minutes, and seconds) to trigger a reminder. Here's a README document to help users understand and use your program:
+# Task Reminder Project using Plyer
 
-Reminder Program:
+## Description
+This project is a simple task reminder application built using the Python programming language and the Plyer library. It allows users to set, manage, and receive reminders for tasks and events.
 
-Description:
+## Features
+- Create tasks with titles and due dates.
+- Set reminders for tasks.
+- Receive notifications for upcoming tasks.
+- Mark tasks as completed.
 
-The Reminder Program is a simple Python script that allows you to set custom reminders with specific messages and time durations. When the specified time elapses, you will receive a desktop notification as a reminder.
+## Installation
+1. Make sure you have Python installed on your system. If not, you can download it from [python.org](https://www.python.org/downloads/).
 
-Contributing:
+2. Clone this repository or download the source code as a ZIP file and extract it to your desired location.
 
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome any improvements or new features.
+3. Navigate to the project directory using your terminal or command prompt.
 
-License:
+4. Install the required Python packages by running:
 
-This program is licensed under the MIT License. See the LICENSE file for details.
+## Usage
+1. Run the application by executing `main.py`:
 
-Acknowledgments:
 
-Special thanks to the Python community and the plyer library for making this program possible.
-Contact
 
-For questions, feedback, or support, you can reach out to the program's author at karthikvadla09@email.com.
+2. Use the application to create, manage, and receive reminders for your tasks.
 
-Feel free to adjust this README to fit your needs, and make sure to replace placeholders with your actual contact information and licensing details.
+## Dependencies
+- Plyer: [Plyer Documentation](https://plyer.readthedocs.io/en/latest/)
+
+## Contributing
+If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Special thanks to the developers of Plyer and other open-source libraries used in this project.
+
+## Contact
+For any questions or issues related to this project, feel free to contact us at [your@email.com](mailto:your@email.com).
+
+Happy task managing!
